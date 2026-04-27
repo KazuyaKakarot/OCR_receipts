@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SON BHD",
+    "confidence": 0.4975
+  },
+  "date": {
+    "value": "08 Mar 2018",
+    "confidence": 0.6853
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$8.20",
+    "confidence": 0.7353
+  },
+  "ocr_page_confidence": 0.5853,
+  "source_file": "X51005433492.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.50",
+    "Low confidence on 'date': 0.69"
+  ]
+}

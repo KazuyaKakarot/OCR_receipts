@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "| HONHWA HARDWARETRADING",
+    "confidence": 0.5117
+  },
+  "date": {
+    "value": "4.47.41",
+    "confidence": 0.702
+  },
+  "items": [],
+  "total_amount": {
+    "value": "4.72",
+    "confidence": 0.752
+  },
+  "ocr_page_confidence": 0.602,
+  "source_file": "X51005568890.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.51"
+  ]
+}

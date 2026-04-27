@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "WiUN HERG ELECTRICAL &",
+    "confidence": 0.467
+  },
+  "date": {
+    "value": "01/02/2016",
+    "confidence": 0.7494
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6.60",
+    "confidence": 0.6994
+  },
+  "ocr_page_confidence": 0.5494,
+  "source_file": "X51005745213.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.47",
+    "Low confidence on 'total_amount': 0.70"
+  ]
+}

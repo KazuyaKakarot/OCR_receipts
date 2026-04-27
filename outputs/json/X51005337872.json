@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "Rak",
+    "confidence": 0.6729
+  },
+  "date": {
+    "value": "06/03/2018",
+    "confidence": 0.9916
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.7916,
+  "source_file": "X51005337872.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.67",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

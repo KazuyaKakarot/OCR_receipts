@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "RESTORAN IBRAHIM MAJU SB",
+    "confidence": 0.6135
+  },
+  "date": {
+    "value": "19/03/2018",
+    "confidence": 0.8218
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.15
+  },
+  "ocr_page_confidence": 0.7218,
+  "source_file": "X51005685355.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.61",
+    "Low confidence on 'total_amount': 0.15"
+  ]
+}

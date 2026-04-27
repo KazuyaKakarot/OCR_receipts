@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "LiM SENG THO HARDWARE TRADING",
+    "confidence": 0.5926
+  },
+  "date": {
+    "value": "29/12/2077",
+    "confidence": 0.8972
+  },
+  "items": [],
+  "total_amount": {
+    "value": "6",
+    "confidence": 0.8472
+  },
+  "ocr_page_confidence": 0.6972,
+  "source_file": "X51005663317.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.59"
+  ]
+}

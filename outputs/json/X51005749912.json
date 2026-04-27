@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "MR. D.I.\u00a5. (M) SDN BHD",
+    "confidence": 0.6499
+  },
+  "date": {
+    "value": "28-03-18",
+    "confidence": 0.8646
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 38.80",
+    "confidence": 0.5735
+  },
+  "ocr_page_confidence": 0.7646,
+  "source_file": "X51005749912.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.65",
+    "Low confidence on 'total_amount': 0.57"
+  ]
+}

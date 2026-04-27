@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "CW KHOO HARDWARE SDN BHD",
+    "confidence": 0.6848
+  },
+  "date": {
+    "value": "01-03-18",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.8057,
+  "source_file": "X51005365179.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.68",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

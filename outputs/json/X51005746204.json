@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "BENMED (SP) SDN. BHD.",
+    "confidence": 0.5793
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "308.70",
+    "confidence": 0.8315
+  },
+  "ocr_page_confidence": 0.6815,
+  "source_file": "X51005746204.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.58",
+    "Low confidence on 'date': 0.20"
+  ]
+}

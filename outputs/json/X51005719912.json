@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "~ RRR RP BY oe Bo",
+    "confidence": 0.457
+  },
+  "date": {
+    "value": "06/03/18",
+    "confidence": 0.6377
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$2",
+    "confidence": 0.6877
+  },
+  "ocr_page_confidence": 0.5377,
+  "source_file": "X51005719912.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.46",
+    "Low confidence on 'date': 0.64",
+    "Low confidence on 'total_amount': 0.69"
+  ]
+}

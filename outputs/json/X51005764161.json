@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "79 SPEED MART 5/8 (519537-X)",
+    "confidence": 0.5877
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 8.9",
+    "confidence": 0.4007
+  },
+  "ocr_page_confidence": 0.5343,
+  "source_file": "X51005764161.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.59",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.40"
+  ]
+}

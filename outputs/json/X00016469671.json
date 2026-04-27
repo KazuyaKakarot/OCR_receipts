@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "tan chay yee",
+    "confidence": 0.6598
+  },
+  "date": {
+    "value": "02/01/2019",
+    "confidence": 0.9762
+  },
+  "items": [],
+  "total_amount": {
+    "value": "170.00",
+    "confidence": 0.9262
+  },
+  "ocr_page_confidence": 0.7762,
+  "source_file": "X00016469671.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.66"
+  ]
+}

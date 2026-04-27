@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "Subway#42210-0 Phone 03-78870693",
+    "confidence": 0.6992
+  },
+  "date": {
+    "value": "27/02/2018",
+    "confidence": 0.9226
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM11.90",
+    "confidence": 0.6169
+  },
+  "ocr_page_confidence": 0.8226,
+  "source_file": "X51005745249.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.70",
+    "Low confidence on 'total_amount': 0.62"
+  ]
+}

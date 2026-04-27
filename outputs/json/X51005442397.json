@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "Triple Six Point Enterprise 666",
+    "confidence": 0.5369
+  },
+  "date": {
+    "value": "25-08-2018",
+    "confidence": 0.7316
+  },
+  "items": [],
+  "total_amount": {
+    "value": "7.60",
+    "confidence": 0.7816
+  },
+  "ocr_page_confidence": 0.6316,
+  "source_file": "X51005442397.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.54"
+  ]
+}

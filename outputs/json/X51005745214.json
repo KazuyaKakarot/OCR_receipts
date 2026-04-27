@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "99 SPEED MART S/B (519537-X)",
+    "confidence": 0.7735
+  },
+  "date": {
+    "value": "07-02-18",
+    "confidence": 0.8032
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$86",
+    "confidence": 0.8532
+  },
+  "ocr_page_confidence": 0.7032,
+  "source_file": "X51005745214.jpg",
+  "warnings": []
+}

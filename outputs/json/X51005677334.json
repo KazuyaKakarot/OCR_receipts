@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "4 \\ \u00e9 C ~ | F ( ; \u2019 '",
+    "confidence": 0.5998
+  },
+  "date": {
+    "value": "31/01/2018",
+    "confidence": 0.9056
+  },
+  "items": [],
+  "total_amount": {
+    "value": "78.00",
+    "confidence": 0.8556
+  },
+  "ocr_page_confidence": 0.7056,
+  "source_file": "X51005677334.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.60"
+  ]
+}

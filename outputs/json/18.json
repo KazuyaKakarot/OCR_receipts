@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "Walmart s'< f",
+    "confidence": 0.4183
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "\u00a31",
+    "confidence": 0.5303
+  },
+  "ocr_page_confidence": 0.3803,
+  "source_file": "18.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.42",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.53"
+  ]
+}

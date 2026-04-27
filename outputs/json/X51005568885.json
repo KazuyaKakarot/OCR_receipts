@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "F EVERGREEN LIGHT SDN BHD |",
+    "confidence": 0.4593
+  },
+  "date": {
+    "value": "10/07/2017",
+    "confidence": 0.6403
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.15
+  },
+  "ocr_page_confidence": 0.5403,
+  "source_file": "X51005568885.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.46",
+    "Low confidence on 'date': 0.64",
+    "Low confidence on 'total_amount': 0.15"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "Be \u2018TOFOR SHOPPING WITH ryNEWS.com",
+    "confidence": 0.5512
+  },
+  "date": {
+    "value": "23/03/2018",
+    "confidence": 0.6011
+  },
+  "items": [],
+  "total_amount": {
+    "value": "10.00",
+    "confidence": 0.6511
+  },
+  "ocr_page_confidence": 0.5011,
+  "source_file": "X51005442378.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.55",
+    "Low confidence on 'date': 0.60",
+    "Low confidence on 'total_amount': 0.65"
+  ]
+}

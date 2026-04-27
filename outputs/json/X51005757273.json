@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "MR. O.1.\u00a5. (KUCHAI) SON BHD",
+    "confidence": 0.7189
+  },
+  "date": {
+    "value": "12-03-18",
+    "confidence": 0.9458
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 45.00",
+    "confidence": 0.6343
+  },
+  "ocr_page_confidence": 0.8458,
+  "source_file": "X51005757273.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.63"
+  ]
+}

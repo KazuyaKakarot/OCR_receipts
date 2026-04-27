@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "Z21BZinol2~\u2014.",
+    "confidence": 0.6353
+  },
+  "date": {
+    "value": "30 Dec 17",
+    "confidence": 0.8474
+  },
+  "items": [],
+  "total_amount": {
+    "value": "87.80",
+    "confidence": 0.8974
+  },
+  "ocr_page_confidence": 0.7474,
+  "source_file": "X51005663280.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.64"
+  ]
+}

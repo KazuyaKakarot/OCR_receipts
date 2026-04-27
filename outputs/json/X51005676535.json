@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "31) 6 Ol Olt,",
+    "confidence": 0.618
+  },
+  "date": {
+    "value": "30/12/2017",
+    "confidence": 0.9271
+  },
+  "items": [],
+  "total_amount": {
+    "value": "84.00",
+    "confidence": 0.8771
+  },
+  "ocr_page_confidence": 0.7271,
+  "source_file": "X51005676535.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.62"
+  ]
+}

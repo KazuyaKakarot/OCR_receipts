@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "BEYOND BROTHERS HARDWARE",
+    "confidence": 0.556
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "\u20ac4",
+    "confidence": 0.8041
+  },
+  "ocr_page_confidence": 0.6541,
+  "source_file": "X51005675914.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.56",
+    "Low confidence on 'date': 0.20"
+  ]
+}

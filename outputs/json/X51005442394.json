@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "org",
+    "confidence": 0.4311
+  },
+  "date": {
+    "value": "0 Mar 2016",
+    "confidence": 0.6072
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$6.20",
+    "confidence": 0.6572
+  },
+  "ocr_page_confidence": 0.5072,
+  "source_file": "X51005442394.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.43",
+    "Low confidence on 'date': 0.61",
+    "Low confidence on 'total_amount': 0.66"
+  ]
+}

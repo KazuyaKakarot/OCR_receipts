@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "Yam Fresh",
+    "confidence": 0.8136
+  },
+  "date": {
+    "value": "2018-03-16",
+    "confidence": 0.9396
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM7.50",
+    "confidence": 0.5547
+  },
+  "ocr_page_confidence": 0.7396,
+  "source_file": "X51005719904.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.55"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "(CO.REG :704427-T )",
+    "confidence": 0.902
+  },
+  "date": {
+    "value": "28-12-17",
+    "confidence": 0.92
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 9.90",
+    "confidence": 0.615
+  },
+  "ocr_page_confidence": 0.82,
+  "source_file": "X51005568900.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.61"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": ", a ae gee ie LS rc .",
+    "confidence": 0.6101
+  },
+  "date": {
+    "value": "5/40/160",
+    "confidence": 0.8178
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 15.90",
+    "confidence": 0.5383
+  },
+  "ocr_page_confidence": 0.7178,
+  "source_file": "X51005568880.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.61",
+    "Low confidence on 'total_amount': 0.54"
+  ]
+}

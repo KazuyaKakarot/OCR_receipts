@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "bey WHOLE FOODS",
+    "confidence": 0.7138
+  },
+  "date": {
+    "value": "9/15/2020",
+    "confidence": 0.7489
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$28.20",
+    "confidence": 0.7989
+  },
+  "ocr_page_confidence": 0.6489,
+  "source_file": "5.jpg",
+  "warnings": []
+}

@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "LIGHTROOM GALLERY SDN BHD",
+    "confidence": 0.6832
+  },
+  "date": {
+    "value": "20/11/2017",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 203,",
+    "confidence": 0.6028
+  },
+  "ocr_page_confidence": 0.8038,
+  "source_file": "X51005268275.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.68",
+    "Low confidence on 'total_amount': 0.60"
+  ]
+}

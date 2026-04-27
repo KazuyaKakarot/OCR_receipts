@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "MR. D.1.\u00a5.(KUCHAI) SDN BHD",
+    "confidence": 0.6853
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 53.30",
+    "confidence": 0.6047
+  },
+  "ocr_page_confidence": 0.8062,
+  "source_file": "X51005719914.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.69",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.60"
+  ]
+}

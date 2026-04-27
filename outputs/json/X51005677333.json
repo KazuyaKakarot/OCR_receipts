@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "Z1.RPOdOI\u2014G .  . .",
+    "confidence": 0.6965
+  },
+  "date": {
+    "value": "31/01/2018",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": "96.00",
+    "confidence": 0.9694
+  },
+  "ocr_page_confidence": 0.8194,
+  "source_file": "X51005677333.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.70"
+  ]
+}

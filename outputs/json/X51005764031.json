@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CARRY ) 3HD",
+    "confidence": 0.648
+  },
+  "date": {
+    "value": "01-62-2018",
+    "confidence": 0.8623
+  },
+  "items": [],
+  "total_amount": {
+    "value": "4",
+    "confidence": 0.9123
+  },
+  "ocr_page_confidence": 0.7623,
+  "source_file": "X51005764031.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.65"
+  ]
+}

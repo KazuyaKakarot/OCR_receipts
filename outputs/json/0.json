@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "3 &F Anse =",
+    "confidence": 0.3008
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.3539,
+  "source_file": "0.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.30",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

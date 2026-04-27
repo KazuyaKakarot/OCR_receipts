@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "oe 1 SSS RA SWS",
+    "confidence": 0.2765
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "1.28",
+    "confidence": 0.4753
+  },
+  "ocr_page_confidence": 0.3253,
+  "source_file": "14.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.28",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.48"
+  ]
+}

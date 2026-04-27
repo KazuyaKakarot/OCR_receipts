@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "- SUPER SEVEN CASH & dm BHO",
+    "confidence": 0.6386
+  },
+  "date": {
+    "value": "01-03-2018",
+    "confidence": 0.8513
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM408.45",
+    "confidence": 0.5635
+  },
+  "ocr_page_confidence": 0.7513,
+  "source_file": "X51005746203.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.64",
+    "Low confidence on 'total_amount': 0.56"
+  ]
+}

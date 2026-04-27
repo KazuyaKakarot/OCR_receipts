@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "Subway#42219-G Phone 03-78870693",
+    "confidence": 0.6899
+  },
+  "date": {
+    "value": "14/02/2018",
+    "confidence": 0.9117
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM11.90",
+    "confidence": 0.6088
+  },
+  "ocr_page_confidence": 0.8117,
+  "source_file": "X51005745244.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.69",
+    "Low confidence on 'total_amount': 0.61"
+  ]
+}

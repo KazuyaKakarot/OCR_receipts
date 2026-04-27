@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "F&P PHARMACY",
+    "confidence": 0.8225
+  },
+  "date": {
+    "value": "02/03/2018",
+    "confidence": 0.9477
+  },
+  "items": [],
+  "total_amount": {
+    "value": "30.68",
+    "confidence": 0.8977
+  },
+  "ocr_page_confidence": 0.7477,
+  "source_file": "X51005365187.jpg",
+  "warnings": []
+}

@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "(CO.REG :860671-D)",
+    "confidence": 0.9372
+  },
+  "date": {
+    "value": "26-03-18",
+    "confidence": 0.952
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 1.58",
+    "confidence": 0.639
+  },
+  "ocr_page_confidence": 0.852,
+  "source_file": "X51005757323.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.64"
+  ]
+}

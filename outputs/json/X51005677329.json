@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "213 09 O}-6 ee",
+    "confidence": 0.6427
+  },
+  "date": {
+    "value": "12/02/2018",
+    "confidence": 0.9561
+  },
+  "items": [],
+  "total_amount": {
+    "value": "255.00",
+    "confidence": 0.9061
+  },
+  "ocr_page_confidence": 0.7561,
+  "source_file": "X51005677329.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.64"
+  ]
+}

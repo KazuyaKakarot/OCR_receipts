@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK.",
+    "confidence": 0.6137
+  },
+  "date": {
+    "value": "07/01/18",
+    "confidence": 0.822
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 31",
+    "confidence": 0.5415
+  },
+  "ocr_page_confidence": 0.722,
+  "source_file": "X51005605333.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.61",
+    "Low confidence on 'total_amount': 0.54"
+  ]
+}

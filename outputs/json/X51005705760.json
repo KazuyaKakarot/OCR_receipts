@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "| MYDIN MART SRI MUDA",
+    "confidence": 0.8011
+  },
+  "date": {
+    "value": "10/08/2017",
+    "confidence": 0.9283
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.7283,
+  "source_file": "X51005705760.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

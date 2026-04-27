@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "P \u2018\u00a2 Pd a . \\ fle woe <q \u00b0 v*. &* i + .",
+    "confidence": 0.4518
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$2",
+    "confidence": 0.6815
+  },
+  "ocr_page_confidence": 0.5315,
+  "source_file": "11.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.45",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.68"
+  ]
+}

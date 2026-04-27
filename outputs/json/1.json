@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "| TRADER JOE'S [ae",
+    "confidence": 0.4759
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$38",
+    "confidence": 0.7099
+  },
+  "ocr_page_confidence": 0.5599,
+  "source_file": "1.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.48",
+    "Low confidence on 'date': 0.20"
+  ]
+}

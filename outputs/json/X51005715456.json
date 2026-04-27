@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "KHE ELECTRICAL TRADING",
+    "confidence": 0.6217
+  },
+  "date": {
+    "value": "22/03/2078",
+    "confidence": 0.9314
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.7314,
+  "source_file": "X51005715456.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.62",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

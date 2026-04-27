@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "Aas 125 :",
+    "confidence": 0.3823
+  },
+  "date": {
+    "value": "20/03/18",
+    "confidence": 0.5498
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.4498,
+  "source_file": "X51005442388.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.38",
+    "Low confidence on 'date': 0.55",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

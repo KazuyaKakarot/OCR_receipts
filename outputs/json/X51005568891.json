@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.6904
+  },
+  "date": {
+    "value": "08/02/2017",
+    "confidence": 0.9122
+  },
+  "items": [],
+  "total_amount": {
+    "value": "277.90",
+    "confidence": 0.9622
+  },
+  "ocr_page_confidence": 0.8122,
+  "source_file": "X51005568891.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.69"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "POTTERS GARDEN SDN BHD",
+    "confidence": 0.7477
+  },
+  "date": {
+    "value": "04/01/2018",
+    "confidence": 0.9797
+  },
+  "items": [],
+  "total_amount": {
+    "value": "39.80",
+    "confidence": 1.0
+  },
+  "ocr_page_confidence": 0.8797,
+  "source_file": "X51005719888.jpg",
+  "warnings": []
+}

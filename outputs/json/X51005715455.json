@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "SF SPEED MAPT S/B (S19537-X)",
+    "confidence": 0.4526
+  },
+  "date": {
+    "value": "26-03-18",
+    "confidence": 0.6325
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.5325,
+  "source_file": "X51005715455.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.45",
+    "Low confidence on 'date': 0.63",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

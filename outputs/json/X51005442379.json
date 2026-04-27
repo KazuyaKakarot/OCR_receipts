@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SON BHO",
+    "confidence": 0.3869
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$470",
+    "confidence": 0.6052
+  },
+  "ocr_page_confidence": 0.4552,
+  "source_file": "X51005442379.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.39",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.61"
+  ]
+}

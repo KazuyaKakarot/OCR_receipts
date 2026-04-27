@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "Rox08t",
+    "confidence": 0.4251
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$4.60",
+    "confidence": 0.6501
+  },
+  "ocr_page_confidence": 0.5001,
+  "source_file": "X51005442327.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.43",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.65"
+  ]
+}

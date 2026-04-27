@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "Segi Cash & i.",
+    "confidence": 0.6009
+  },
+  "date": {
+    "value": "06 Jan 2018",
+    "confidence": 0.807
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 673.99",
+    "confidence": 0.5302
+  },
+  "ocr_page_confidence": 0.707,
+  "source_file": "X51005763999.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.60",
+    "Low confidence on 'total_amount': 0.53"
+  ]
+}

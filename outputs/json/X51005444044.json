@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "99 SPEED MART S/B (S19S37-X)",
+    "confidence": 0.7064
+  },
+  "date": {
+    "value": "10-03-18",
+    "confidence": 0.7422
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.15
+  },
+  "ocr_page_confidence": 0.6422,
+  "source_file": "X51005444044.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.15"
+  ]
+}

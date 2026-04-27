@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "BENS INDEPENDENT GROCER SON. BHD",
+    "confidence": 0.7262
+  },
+  "date": {
+    "value": "12/03/18",
+    "confidence": 0.9544
+  },
+  "items": [],
+  "total_amount": {
+    "value": "77.20",
+    "confidence": 1.0
+  },
+  "ocr_page_confidence": 0.8544,
+  "source_file": "X51005444033.jpg",
+  "warnings": []
+}

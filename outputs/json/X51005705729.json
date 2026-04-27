@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "ASO ELECTRICAL TRADING SDN BHD",
+    "confidence": 0.6502
+  },
+  "date": {
+    "value": "13/10/0077",
+    "confidence": 0.9649
+  },
+  "items": [],
+  "total_amount": {
+    "value": "94.6",
+    "confidence": 0.9149
+  },
+  "ocr_page_confidence": 0.7649,
+  "source_file": "X51005705729.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.65"
+  ]
+}

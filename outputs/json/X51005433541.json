@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "Aozos0",
+    "confidence": 0.4565
+  },
+  "date": {
+    "value": "14 Mar 2018",
+    "confidence": 0.6371
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$600",
+    "confidence": 0.6871
+  },
+  "ocr_page_confidence": 0.5371,
+  "source_file": "X51005433541.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.46",
+    "Low confidence on 'date': 0.64",
+    "Low confidence on 'total_amount': 0.69"
+  ]
+}

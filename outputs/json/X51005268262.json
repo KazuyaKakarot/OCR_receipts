@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": ". HOME KASTER HARDWARE &",
+    "confidence": 0.5511
+  },
+  "date": {
+    "value": "22/12/2017",
+    "confidence": 0.8484
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.6484,
+  "source_file": "X51005268262.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.55",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

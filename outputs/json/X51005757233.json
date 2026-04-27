@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "buardien flealth And Beaty \u00a7da fied",
+    "confidence": 0.4877
+  },
+  "date": {
+    "value": "09/05/18",
+    "confidence": 0.6738
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.5738,
+  "source_file": "X51005757233.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.49",
+    "Low confidence on 'date': 0.67",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "Aese9g",
+    "confidence": 0.516
+  },
+  "date": {
+    "value": "2018-00-23",
+    "confidence": 0.7071
+  },
+  "items": [],
+  "total_amount": {
+    "value": "3.16",
+    "confidence": 0.7571
+  },
+  "ocr_page_confidence": 0.6071,
+  "source_file": "X51005442361.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.52"
+  ]
+}

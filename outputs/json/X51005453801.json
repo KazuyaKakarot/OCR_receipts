@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "GL HANDICRAFT & TAILORING",
+    "confidence": 0.6343
+  },
+  "date": {
+    "value": "20/03/2018",
+    "confidence": 0.9462
+  },
+  "items": [],
+  "total_amount": {
+    "value": "102.00",
+    "confidence": 0.8962
+  },
+  "ocr_page_confidence": 0.7462,
+  "source_file": "X51005453801.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.63"
+  ]
+}

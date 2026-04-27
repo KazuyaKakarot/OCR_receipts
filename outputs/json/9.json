@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "Winc",
+    "confidence": 0.6279
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "121.92",
+    "confidence": 0.7208
+  },
+  "ocr_page_confidence": 0.5708,
+  "source_file": "9.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.63",
+    "Low confidence on 'date': 0.20"
+  ]
+}

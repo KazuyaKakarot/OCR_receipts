@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "CARREFOUR RESTAURANT",
+    "confidence": 0.6751
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "13.00",
+    "confidence": 0.7637
+  },
+  "ocr_page_confidence": 0.6137,
+  "source_file": "X51005442383.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.68",
+    "Low confidence on 'date': 0.20"
+  ]
+}

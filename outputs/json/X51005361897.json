@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "el oT _ TT EES _\u2014",
+    "confidence": 0.6604
+  },
+  "date": {
+    "value": "17/01/2018",
+    "confidence": 0.9769
+  },
+  "items": [],
+  "total_amount": {
+    "value": "26.00",
+    "confidence": 0.9269
+  },
+  "ocr_page_confidence": 0.7769,
+  "source_file": "X51005361897.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.66"
+  ]
+}

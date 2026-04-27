@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "senses (\u00b0749H)",
+    "confidence": 0.635
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.15
+  },
+  "ocr_page_confidence": 0.7471,
+  "source_file": "X51005453802.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.64",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.15"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "SUSHI MENTAI - MAHKOTA CHERAS",
+    "confidence": 0.7445
+  },
+  "date": {
+    "value": "31-03-2018",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.8759,
+  "source_file": "X51005711456.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

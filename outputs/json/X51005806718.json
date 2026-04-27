@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "HUGO TRADING SDN BHD Tota",
+    "confidence": 0.5209
+  },
+  "date": {
+    "value": "13/01/2018",
+    "confidence": 0.7128
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.6128,
+  "source_file": "X51005806718.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.52",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

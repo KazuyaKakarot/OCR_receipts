@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "& dbo]",
+    "confidence": 0.4256
+  },
+  "date": {
+    "value": "12 Mar 2018",
+    "confidence": 0.6007
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$7.10",
+    "confidence": 0.6507
+  },
+  "ocr_page_confidence": 0.5007,
+  "source_file": "X51005433538.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.43",
+    "Low confidence on 'date': 0.60",
+    "Low confidence on 'total_amount': 0.65"
+  ]
+}

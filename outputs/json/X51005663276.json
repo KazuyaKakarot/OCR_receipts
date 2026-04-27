@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "NS FRWONE",
+    "confidence": 0.5725
+  },
+  "date": {
+    "value": "02/12/2017",
+    "confidence": 0.8735
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.6735,
+  "source_file": "X51005663276.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.57",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

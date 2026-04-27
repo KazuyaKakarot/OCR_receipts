@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "RESTAURANT SON BHD",
+    "confidence": 0.8514
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.774,
+  "source_file": "X51005447848.jpg",
+  "warnings": [
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "AIK .",
+    "confidence": 0.5295
+  },
+  "date": {
+    "value": "15/06/2017",
+    "confidence": 0.8229
+  },
+  "items": [],
+  "total_amount": {
+    "value": "15.00",
+    "confidence": 0.7729
+  },
+  "ocr_page_confidence": 0.6229,
+  "source_file": "X51005268200.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.53"
+  ]
+}

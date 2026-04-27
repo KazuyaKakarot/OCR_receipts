@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "e a nes PAV TW Hig A AE RE",
+    "confidence": 0.2122
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.2496,
+  "source_file": "10.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.21",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

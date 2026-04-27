@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "NO.2-1-1 JALAN fITA PRIMA 0",
+    "confidence": 0.4011
+  },
+  "date": {
+    "value": "12/28/2017",
+    "confidence": 0.6719
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.4719,
+  "source_file": "X51005268400.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.40",
+    "Low confidence on 'date': 0.67",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

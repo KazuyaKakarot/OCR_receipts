@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "PERNIAGAAN ZHENG HU) ;",
+    "confidence": 0.5622
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "80",
+    "confidence": 0.8114
+  },
+  "ocr_page_confidence": 0.6614,
+  "source_file": "X51005200931.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.56",
+    "Low confidence on 'date': 0.20"
+  ]
+}

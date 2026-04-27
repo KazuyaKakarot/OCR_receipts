@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE bute",
+    "confidence": 0.6849
+  },
+  "date": {
+    "value": "06/01/2018",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": "61.99",
+    "confidence": 0.9558
+  },
+  "ocr_page_confidence": 0.8058,
+  "source_file": "X51005763964.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.68"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "KeDf \u2018PAN YEW Ch JAN",
+    "confidence": 0.5778
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "295.00",
+    "confidence": 0.8298
+  },
+  "ocr_page_confidence": 0.6798,
+  "source_file": "X51005724623.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.58",
+    "Low confidence on 'date': 0.20"
+  ]
+}

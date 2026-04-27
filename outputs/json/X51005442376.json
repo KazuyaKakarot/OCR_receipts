@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "Ao3nz",
+    "confidence": 0.444
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$7",
+    "confidence": 0.6723
+  },
+  "ocr_page_confidence": 0.5223,
+  "source_file": "X51005442376.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.44",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.67"
+  ]
+}

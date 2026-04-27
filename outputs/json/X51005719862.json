@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "3,\u201d 44150 KLANG, SELANGOR A",
+    "confidence": 0.318
+  },
+  "date": {
+    "value": "03-02-18",
+    "confidence": 0.4741
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.3741,
+  "source_file": "X51005719862.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.32",
+    "Low confidence on 'date': 0.47",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "ys ; PETRON BKT LANJAN\u2019SB a i",
+    "confidence": 0.4497
+  },
+  "date": {
+    "value": "01/02/2018",
+    "confidence": 0.6291
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.5291,
+  "source_file": "X51005230605.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.45",
+    "Low confidence on 'date': 0.63",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

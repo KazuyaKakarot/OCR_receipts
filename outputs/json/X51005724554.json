@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "KEDAI PAPAN YEW CHUAN",
+    "confidence": 0.7097
+  },
+  "date": {
+    "value": "28/02/2078",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": "96.00",
+    "confidence": 0.9849
+  },
+  "ocr_page_confidence": 0.8349,
+  "source_file": "X51005724554.jpg",
+  "warnings": []
+}

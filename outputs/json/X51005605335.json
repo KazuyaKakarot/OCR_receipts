@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "(Co. Now 113825-W)",
+    "confidence": 0.9405
+  },
+  "date": {
+    "value": "12/01/18",
+    "confidence": 0.955
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 21.00",
+    "confidence": 0.6412
+  },
+  "ocr_page_confidence": 0.855,
+  "source_file": "X51005605335.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.64"
+  ]
+}

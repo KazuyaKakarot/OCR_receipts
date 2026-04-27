@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "Aaz the",
+    "confidence": 0.4077
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$8.50",
+    "confidence": 0.6297
+  },
+  "ocr_page_confidence": 0.4797,
+  "source_file": "X51005442375.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.41",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.63"
+  ]
+}

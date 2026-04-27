@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE",
+    "confidence": 0.6502
+  },
+  "date": {
+    "value": "06/01/2018",
+    "confidence": 0.9649
+  },
+  "items": [],
+  "total_amount": {
+    "value": "61.99",
+    "confidence": 0.9149
+  },
+  "ocr_page_confidence": 0.7649,
+  "source_file": "X51005742110.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.65"
+  ]
+}

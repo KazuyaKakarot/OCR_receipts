@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "RESTAURANT JIAWE|",
+    "confidence": 0.8315
+  },
+  "date": {
+    "value": "23/2/2018",
+    "confidence": 0.9559
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 110.",
+    "confidence": 0.5669
+  },
+  "ocr_page_confidence": 0.7559,
+  "source_file": "X51005447844.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.57"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "AEON CG. (M) BHD (126926-H)",
+    "confidence": 0.6676
+  },
+  "date": {
+    "value": "14/03/2018",
+    "confidence": 0.8854
+  },
+  "items": [],
+  "total_amount": {
+    "value": "11.55",
+    "confidence": 0.9354
+  },
+  "ocr_page_confidence": 0.7854,
+  "source_file": "X51005605287.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.67"
+  ]
+}

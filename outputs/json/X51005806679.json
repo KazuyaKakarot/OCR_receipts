@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "LEE WAH FLORIST SON BHD",
+    "confidence": 0.5919
+  },
+  "date": {
+    "value": "92/02/2018",
+    "confidence": 0.7963
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.6963,
+  "source_file": "X51005806679.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.59",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

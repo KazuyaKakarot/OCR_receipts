@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "\u00bb3H POWER HARDWARE",
+    "confidence": 0.591
+  },
+  "date": {
+    "value": "10/10/2017",
+    "confidence": 0.8953
+  },
+  "items": [],
+  "total_amount": {
+    "value": "8.00",
+    "confidence": 0.8453
+  },
+  "ocr_page_confidence": 0.6953,
+  "source_file": "X51005757286.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.59"
+  ]
+}

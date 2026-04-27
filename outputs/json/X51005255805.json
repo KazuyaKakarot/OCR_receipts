@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "SAM SAM TRADING CO",
+    "confidence": 0.6129
+  },
+  "date": {
+    "value": "29-12-2017",
+    "confidence": 0.821
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 14.16",
+    "confidence": 0.5407
+  },
+  "ocr_page_confidence": 0.721,
+  "source_file": "X51005255805.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.61",
+    "Low confidence on 'total_amount': 0.54"
+  ]
+}

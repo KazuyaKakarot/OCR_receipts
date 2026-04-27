@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "ZI8OlolF |:",
+    "confidence": 0.6553
+  },
+  "date": {
+    "value": "29/12/2017",
+    "confidence": 0.9709
+  },
+  "items": [],
+  "total_amount": {
+    "value": "10.00",
+    "confidence": 0.9209
+  },
+  "ocr_page_confidence": 0.7709,
+  "source_file": "X51005676542.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.66"
+  ]
+}

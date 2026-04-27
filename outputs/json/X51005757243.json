@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "(Co. No. 113825-W)",
+    "confidence": 0.8501
+  },
+  "date": {
+    "value": "11/03/18",
+    "confidence": 0.8728
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.7728,
+  "source_file": "X51005757243.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

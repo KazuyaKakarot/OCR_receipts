@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "a 4 :ng Alaf Restaurants \" Bhd |",
+    "confidence": 0.6222
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$521",
+    "confidence": 0.7156
+  },
+  "ocr_page_confidence": 0.5656,
+  "source_file": "X51005717526.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.62",
+    "Low confidence on 'date': 0.20"
+  ]
+}

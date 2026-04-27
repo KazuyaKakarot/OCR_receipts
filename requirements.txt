@@ -1,0 +1,11 @@
+# Core OCR
+pytesseract==0.3.10
+
+# Image processing
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.3.0
+
+# (Optional) for notebook exploration
+# jupyter
+# matplotlib

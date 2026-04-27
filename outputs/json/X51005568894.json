@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "VIVOPAC MARKETING SDN BHD (1070687-M)",
+    "confidence": 0.7225
+  },
+  "date": {
+    "value": "17/01/2017",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.15
+  },
+  "ocr_page_confidence": 0.85,
+  "source_file": "X51005568894.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.15"
+  ]
+}

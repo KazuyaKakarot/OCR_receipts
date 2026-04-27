@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "J ECONSAVE MUG",
+    "confidence": 0.533
+  },
+  "date": {
+    "value": "22/03/18",
+    "confidence": 0.727
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$73",
+    "confidence": 0.777
+  },
+  "ocr_page_confidence": 0.627,
+  "source_file": "X51005605295.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.53"
+  ]
+}

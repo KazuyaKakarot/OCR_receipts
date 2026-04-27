@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "SIP de @)r",
+    "confidence": 0.623
+  },
+  "date": {
+    "value": "04/12/2017",
+    "confidence": 0.9329
+  },
+  "items": [],
+  "total_amount": {
+    "value": "45.00",
+    "confidence": 0.8829
+  },
+  "ocr_page_confidence": 0.7329,
+  "source_file": "X51005663273.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.62"
+  ]
+}

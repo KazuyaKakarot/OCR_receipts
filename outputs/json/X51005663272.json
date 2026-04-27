@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "STORE: 40225409 FAX : 603-40217507.",
+    "confidence": 0.8359
+  },
+  "date": {
+    "value": "04/12/17",
+    "confidence": 0.9599
+  },
+  "items": [],
+  "total_amount": {
+    "value": "42.40",
+    "confidence": 0.9099
+  },
+  "ocr_page_confidence": 0.7599,
+  "source_file": "X51005663272.jpg",
+  "warnings": []
+}

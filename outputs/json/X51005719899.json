@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "-~ NYONYA COLORS @ 1 UTAMA",
+    "confidence": 0.6647
+  },
+  "date": {
+    "value": "18-03-2018",
+    "confidence": 0.882
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM53.",
+    "confidence": 0.5865
+  },
+  "ocr_page_confidence": 0.782,
+  "source_file": "X51005719899.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.66",
+    "Low confidence on 'total_amount': 0.59"
+  ]
+}

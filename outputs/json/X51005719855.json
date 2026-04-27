@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "RAINFOREST, 1 LTAMA SHOPPING CENTRE,",
+    "confidence": 0.8979
+  },
+  "date": {
+    "value": "19/02/2018",
+    "confidence": 0.9163
+  },
+  "items": [],
+  "total_amount": {
+    "value": "181.55",
+    "confidence": 0.9663
+  },
+  "ocr_page_confidence": 0.8163,
+  "source_file": "X51005719855.jpg",
+  "warnings": []
+}

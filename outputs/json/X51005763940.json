@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "ee Et ee",
+    "confidence": 0.6953
+  },
+  "date": {
+    "value": "11.02.18",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 60.00",
+    "confidence": 0.6135
+  },
+  "ocr_page_confidence": 0.818,
+  "source_file": "X51005763940.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.70",
+    "Low confidence on 'total_amount': 0.61"
+  ]
+}

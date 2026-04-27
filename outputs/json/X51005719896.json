@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "AINE STORE: GIALAYSTAD SDN BHD (BI9K)",
+    "confidence": 0.4216
+  },
+  "date": {
+    "value": "14-01-2018",
+    "confidence": 0.4833
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.3833,
+  "source_file": "X51005719896.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.42",
+    "Low confidence on 'date': 0.48",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

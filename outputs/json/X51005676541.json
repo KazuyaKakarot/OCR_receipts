@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "2 18 OI Ol .",
+    "confidence": 0.6351
+  },
+  "date": {
+    "value": "03/01/2018",
+    "confidence": 0.9472
+  },
+  "items": [],
+  "total_amount": {
+    "value": "89.50",
+    "confidence": 0.8972
+  },
+  "ocr_page_confidence": 0.7472,
+  "source_file": "X51005676541.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.64"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "ia 21301014 iti f \u2014",
+    "confidence": 0.6146
+  },
+  "date": {
+    "value": "10/01/2018",
+    "confidence": 0.9231
+  },
+  "items": [],
+  "total_amount": {
+    "value": "22.00",
+    "confidence": 0.8731
+  },
+  "ocr_page_confidence": 0.7231,
+  "source_file": "X51005676539.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.61"
+  ]
+}

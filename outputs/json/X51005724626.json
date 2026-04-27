@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "- Nnep 293.580",
+    "confidence": 0.6824
+  },
+  "date": {
+    "value": "02/04/2078",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": "255.00",
+    "confidence": 0.9528
+  },
+  "ocr_page_confidence": 0.8028,
+  "source_file": "X51005724626.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.68"
+  ]
+}

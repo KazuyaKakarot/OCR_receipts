@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "UNIRAKKA INTERNATIONAL SON BHO",
+    "confidence": 0.4248
+  },
+  "date": {
+    "value": "10 Mar 2018",
+    "confidence": 0.5998
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$8.20",
+    "confidence": 0.6498
+  },
+  "ocr_page_confidence": 0.4998,
+  "source_file": "X51005442384.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.42",
+    "Low confidence on 'date': 0.60",
+    "Low confidence on 'total_amount': 0.65"
+  ]
+}

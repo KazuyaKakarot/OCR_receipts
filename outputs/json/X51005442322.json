@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "RESTAURANT",
+    "confidence": 0.751
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "231.06",
+    "confidence": 0.8327
+  },
+  "ocr_page_confidence": 0.6827,
+  "source_file": "X51005442322.jpg",
+  "warnings": [
+    "Low confidence on 'date': 0.20"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "\u2014_ WAL*MART",
+    "confidence": 0.7666
+  },
+  "date": {
+    "value": "10/20/07",
+    "confidence": 0.7969
+  },
+  "items": [],
+  "total_amount": {
+    "value": "7.89",
+    "confidence": 0.8469
+  },
+  "ocr_page_confidence": 0.6969,
+  "source_file": "12.jpg",
+  "warnings": []
+}

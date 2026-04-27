@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "LIM SENG THD HARDWARE TRADING",
+    "confidence": 0.6695
+  },
+  "date": {
+    "value": "08/02/2018",
+    "confidence": 0.9877
+  },
+  "items": [],
+  "total_amount": {
+    "value": "10",
+    "confidence": 0.9377
+  },
+  "ocr_page_confidence": 0.7877,
+  "source_file": "X51005663274.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.67"
+  ]
+}

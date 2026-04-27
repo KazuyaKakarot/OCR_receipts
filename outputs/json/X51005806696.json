@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "IMAGE FPRINTEC (M) SON BHD",
+    "confidence": 0.7378
+  },
+  "date": {
+    "value": "23/02/2018",
+    "confidence": 0.968
+  },
+  "items": [],
+  "total_amount": {
+    "value": "2",
+    "confidence": 1.0
+  },
+  "ocr_page_confidence": 0.868,
+  "source_file": "X51005806696.jpg",
+  "warnings": []
+}

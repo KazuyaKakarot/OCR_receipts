@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "2 VP ol OlF te,",
+    "confidence": 0.6471
+  },
+  "date": {
+    "value": "16/01/2018",
+    "confidence": 0.9613
+  },
+  "items": [],
+  "total_amount": {
+    "value": "10.50",
+    "confidence": 0.9113
+  },
+  "ocr_page_confidence": 0.7613,
+  "source_file": "X51005676548.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.65"
+  ]
+}

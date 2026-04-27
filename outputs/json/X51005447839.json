@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "RES!AURANT JIAWEI",
+    "confidence": 0.6237
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 65.",
+    "confidence": 0.5504
+  },
+  "ocr_page_confidence": 0.7338,
+  "source_file": "X51005447839.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.62",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.55"
+  ]
+}

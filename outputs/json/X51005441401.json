@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "BISTRO & CAFE",
+    "confidence": 0.8436
+  },
+  "date": {
+    "value": "12/03/2018",
+    "confidence": 0.9669
+  },
+  "items": [],
+  "total_amount": {
+    "value": "295.00",
+    "confidence": 0.9169
+  },
+  "ocr_page_confidence": 0.7669,
+  "source_file": "X51005441401.jpg",
+  "warnings": []
+}

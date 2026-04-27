@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "99 SPEED MART S/B (S19537-X)",
+    "confidence": 0.8494
+  },
+  "date": {
+    "value": "20-02-18",
+    "confidence": 0.8722
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 9",
+    "confidence": 0.5792
+  },
+  "ocr_page_confidence": 0.7722,
+  "source_file": "X51005447852.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.58"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "\u2019 TAX INVOICE",
+    "confidence": 0.6256
+  },
+  "date": {
+    "value": "18-01-2018",
+    "confidence": 0.836
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 41.95",
+    "confidence": 0.552
+  },
+  "ocr_page_confidence": 0.736,
+  "source_file": "X51005741944.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.63",
+    "Low confidence on 'total_amount': 0.55"
+  ]
+}

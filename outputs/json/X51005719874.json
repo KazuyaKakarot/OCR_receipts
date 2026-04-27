@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "\u201c\u2014 NADEJE PRESTIGE SDN BHD",
+    "confidence": 0.6383
+  },
+  "date": {
+    "value": "2018/02/22",
+    "confidence": 0.951
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM26.00",
+    "confidence": 0.5633
+  },
+  "ocr_page_confidence": 0.751,
+  "source_file": "X51005719874.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.64",
+    "Low confidence on 'total_amount': 0.56"
+  ]
+}

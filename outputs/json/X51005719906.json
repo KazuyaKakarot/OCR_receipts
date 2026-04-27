@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "Zen and coffee 28 S/B",
+    "confidence": 0.6841
+  },
+  "date": {
+    "value": "25 Mar 2018",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": "185.08",
+    "confidence": 0.9548
+  },
+  "ocr_page_confidence": 0.8048,
+  "source_file": "X51005719906.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.68"
+  ]
+}

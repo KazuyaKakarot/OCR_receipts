@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "Dis posi",
+    "confidence": 0.6176
+  },
+  "date": {
+    "value": "25-01-2018",
+    "confidence": 0.9266
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.7266,
+  "source_file": "X51005764154.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.62",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "2\\e> oD CV",
+    "confidence": 0.4581
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "\u20ac1",
+    "confidence": 0.6889
+  },
+  "ocr_page_confidence": 0.5389,
+  "source_file": "X51005663301.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.46",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.69"
+  ]
+}

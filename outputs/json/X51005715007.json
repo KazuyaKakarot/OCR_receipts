@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "a MyTOWN Shopping Centre, sf",
+    "confidence": 0.8367
+  },
+  "date": {
+    "value": "25-03-18",
+    "confidence": 0.9606
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 18.70",
+    "confidence": 0.5705
+  },
+  "ocr_page_confidence": 0.7606,
+  "source_file": "X51005715007.jpg",
+  "warnings": [
+    "Low confidence on 'total_amount': 0.57"
+  ]
+}

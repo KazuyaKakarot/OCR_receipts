@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CARRY SDN BHD",
+    "confidence": 0.676
+  },
+  "date": {
+    "value": "27-01-2018",
+    "confidence": 0.8953
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM59.00",
+    "confidence": 0.5965
+  },
+  "ocr_page_confidence": 0.7953,
+  "source_file": "X51005763958.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.68",
+    "Low confidence on 'total_amount': 0.60"
+  ]
+}

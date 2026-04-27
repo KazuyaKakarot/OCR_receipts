@@ -1,0 +1,18 @@
+{
+  "store_name": {
+    "value": "Store# 156 (517) 993-0356",
+    "confidence": 0.8549
+  },
+  "date": {
+    "value": "9/17/22",
+    "confidence": 0.8772
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$24.00",
+    "confidence": 0.9272
+  },
+  "ocr_page_confidence": 0.7772,
+  "source_file": "20.png",
+  "warnings": []
+}

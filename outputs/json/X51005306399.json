@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "Shell ISNI PERO TRADING",
+    "confidence": 0.6807
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": "$344",
+    "confidence": 0.9508
+  },
+  "ocr_page_confidence": 0.8008,
+  "source_file": "X51005306399.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.68",
+    "Low confidence on 'date': 0.20"
+  ]
+}

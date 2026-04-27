@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "SO a \u2014 a rr rao",
+    "confidence": 0.5928
+  },
+  "date": {
+    "value": "23/01/2018",
+    "confidence": 0.8974
+  },
+  "items": [],
+  "total_amount": {
+    "value": "16.98",
+    "confidence": 0.8474
+  },
+  "ocr_page_confidence": 0.6974,
+  "source_file": "X51005361900.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.59"
+  ]
+}

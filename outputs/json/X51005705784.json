@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "-\u2014 (EDAI BUKU NEW ACHEIVERS a",
+    "confidence": 0.5902
+  },
+  "date": {
+    "value": "15/09/2017",
+    "confidence": 0.8943
+  },
+  "items": [],
+  "total_amount": {
+    "value": "45.28",
+    "confidence": 0.8443
+  },
+  "ocr_page_confidence": 0.6943,
+  "source_file": "X51005705784.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.59"
+  ]
+}

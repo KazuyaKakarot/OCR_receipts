@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "(001451637-M) _ PY",
+    "confidence": 0.6191
+  },
+  "date": {
+    "value": "29/01/2018",
+    "confidence": 0.8284
+  },
+  "items": [],
+  "total_amount": {
+    "value": "1.05",
+    "confidence": 0.8784
+  },
+  "ocr_page_confidence": 0.7284,
+  "source_file": "X51005361912.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.62"
+  ]
+}

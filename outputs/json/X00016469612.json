@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "tan woon yann",
+    "confidence": 0.5301
+  },
+  "date": {
+    "value": "25/12/2018",
+    "confidence": 0.8236
+  },
+  "items": [],
+  "total_amount": {
+    "value": "9.13",
+    "confidence": 0.7736
+  },
+  "ocr_page_confidence": 0.6236,
+  "source_file": "X00016469612.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.53"
+  ]
+}

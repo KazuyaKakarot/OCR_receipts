@@ -1,0 +1,22 @@
+{
+  "store_name": {
+    "value": "| KING\u2019S CONFECTIONERY S/B 273500-U (KSB)",
+    "confidence": 0.4788
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.2
+  },
+  "ocr_page_confidence": 0.5633,
+  "source_file": "X51005719902.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.48",
+    "Low confidence on 'date': 0.20",
+    "Low confidence on 'total_amount': 0.20"
+  ]
+}

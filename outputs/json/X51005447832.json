@@ -1,0 +1,21 @@
+{
+  "store_name": {
+    "value": "PETRODELI ENTERPRISE",
+    "confidence": 0.6868
+  },
+  "date": {
+    "value": "26/02/18",
+    "confidence": 1.0
+  },
+  "items": [],
+  "total_amount": {
+    "value": "RM 85.54",
+    "confidence": 0.606
+  },
+  "ocr_page_confidence": 0.808,
+  "source_file": "X51005447832.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.69",
+    "Low confidence on 'total_amount': 0.61"
+  ]
+}

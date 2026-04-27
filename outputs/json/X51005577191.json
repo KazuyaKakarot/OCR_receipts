@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "cy CACLE ENTERPRISE",
+    "confidence": 0.5381
+  },
+  "date": {
+    "value": "07/12/2017",
+    "confidence": 0.833
+  },
+  "items": [],
+  "total_amount": {
+    "value": "9,43",
+    "confidence": 0.783
+  },
+  "ocr_page_confidence": 0.633,
+  "source_file": "X51005577191.jpg",
+  "warnings": [
+    "Low confidence on 'store_name': 0.54"
+  ]
+}

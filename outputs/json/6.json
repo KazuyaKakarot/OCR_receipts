@@ -1,0 +1,20 @@
+{
+  "store_name": {
+    "value": "= CREPERIE \u2014\u2014",
+    "confidence": 0.5145
+  },
+  "date": {
+    "value": "26/01/2018",
+    "confidence": 0.7053
+  },
+  "items": [],
+  "total_amount": {
+    "value": "175,",
+    "confidence": 0.7553
+  },
+  "ocr_page_confidence": 0.6053,
+  "source_file": "6.JPG",
+  "warnings": [
+    "Low confidence on 'store_name': 0.51"
+  ]
+}
